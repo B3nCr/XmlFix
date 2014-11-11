@@ -3,7 +3,7 @@ XmlFix
 
 A small project which removes nuget targets to allow projects to use automatic package restore.
 
-A colleague of mine wrote this so I stoke it and shared it.
+A colleague of mine wrote this so I stole it and shared it with you.
 
 Update the tests to point at the folder which contains your old fashioned nuget solution, run the tests, you're now ready to use new fangled automatic package restore.
 
