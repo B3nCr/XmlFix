@@ -9,4 +9,4 @@ Update the tests to point at the folder which contains your old fashioned nuget 
 
 The tests should have cleaned up all the nuget.exe and nuget targets from your project files. 
 
-If this doesn't work for you I feel bad for you man, I've got 99 problems but that one is all yours. Use source control and you'll be fine.
+If this doesn't work for you, sorry.
